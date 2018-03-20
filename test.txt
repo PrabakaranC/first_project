@@ -1,8 +1,10 @@
 <h1>This is my first Cloud project</h1>
-Testing with commands
 
+<<<<<<< HEAD
 Branching 
-
 ===20-March==
 Header change from master
 Master text changed for github push
+=======
+From Github editing complted from local
+
