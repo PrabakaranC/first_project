@@ -1,0 +1,23 @@
+[33mcommit 519d0ac6709b0fe7ed1d3314e2d26a17a5f054ab[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Prabakaran <Prabakaran6066@gmail.com>
+Date:   Tue Mar 20 03:08:14 2018 +0000
+
+    Master commit
+
+[33mcommit ef05b99f996b2f02ce77c8ec63dd3bcd608b618c[m[33m ([m[1;31morigin/test[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Prabakaran <Prabakaran6066@gmail.com>
+Date:   Mon Mar 19 08:41:50 2018 +0000
+
+    new Branch
+
+[33mcommit 79247319da04fd5dc25483b8c43ca809e92e2c92[m
+Author: Prabakaran <Prabakaran6066@gmail.com>
+Date:   Mon Mar 19 08:35:19 2018 +0000
+
+    second
+
+[33mcommit 22a5d05d6d675005bbb10b5ca2191bdd32389784[m
+Author: EC2 Default User <ec2-user@ip-172-31-45-118.us-east-2.compute.internal>
+Date:   Mon Mar 19 08:19:48 2018 +0000
+
+    This is my first Cloud project
